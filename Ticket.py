@@ -1,6 +1,6 @@
-
+print("Welcome to Cosmic Cinemas!!!")
 print("The ticket price is determined based on customer's age, presenting a proof of age is obligatory at entrance. ")
-15
+
 age = int(input("How old are you?: "))
 
 if age >= 40:
